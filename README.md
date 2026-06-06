@@ -76,9 +76,8 @@ Example:
 
 Add your LeetCode profile link here:
 
-``text
 https://leetcode.com/u/sourabhchetan/
-```
+
 
 ## Connect With Me
 
