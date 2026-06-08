@@ -49,10 +49,10 @@ Example:
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 6      |
-| Medium     | 13     |
-| Hard       | 5      |
-| Total      | 23     |
+| Easy       | 9      |
+| Medium     | 17     |
+| Hard       | 6      |
+| Total      | 32     |
 
 > Progress will be updated regularly.
 
