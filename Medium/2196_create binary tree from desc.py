@@ -17,7 +17,7 @@ class Solution:
 
             if child not in nodes:
                 nodes[child] = TreeNode(child)
-
+                
             if isLeft:
                 nodes[parent].left = nodes[child]
             else:
