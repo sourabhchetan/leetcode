@@ -50,9 +50,9 @@ Example:
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 29     |
-| Medium     | 65     |
-| Hard       | 28     |
-| Total      | 122     |
+| Medium     | 66     |
+| Hard       | 29     |
+| Total      | 124     |
 
 > Progress will be updated regularly.
 
