@@ -40,5 +40,4 @@ class Solution(object):
                     matrix[i][left] = num
                     num += 1
                 left += 1
-
         return matrix
