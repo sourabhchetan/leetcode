@@ -49,8 +49,8 @@ Example:
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 41     |
-| Medium     | 91     |
+| Easy       | 42     |
+| Medium     | 92     |
 | Hard       | 38     |
 | Total      | 170    |
 
