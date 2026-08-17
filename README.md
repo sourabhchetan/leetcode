@@ -51,8 +51,8 @@ Example:
 | ---------- | ------ |
 | Easy       | 42     |
 | Medium     | 93     |
-| Hard       | 39     |
-| Total      | 172    |
+| Hard       | 40     |
+| Total      | 173    |
 
 > Progress will be updated regularly.
 
