@@ -11,7 +11,7 @@ This repository contains my daily LeetCode problem-solving journey using Python.
 
 ## Repository Structure
 
-```text
+``text
 leetcode/
 │
 ├── Easy/
