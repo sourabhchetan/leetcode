@@ -49,7 +49,7 @@ Example:
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 45     |
+| Easy       | 46     |
 | Medium     | 95     |
 | Hard       | 40     |
 | Total      | 178    |
